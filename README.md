@@ -1,3 +1,3 @@
 #IntroducaoJavascript
 
-Atividade Introdução ao Javascript Cursos Alura
+Atividade de Introdução ao Javascript dos Cursos Alura
